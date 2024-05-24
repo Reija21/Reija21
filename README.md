@@ -6,10 +6,6 @@
 
 ###
 
-<img align="left" height="191" src="https://avatars.githubusercontent.com/u/137615025?v=4"  />
-
-###
-
 <p align="left">My name is Reija; in search of new opportunities to advance and perfect myself as a fullstack developer.<br>With a firm willingness to face innovative challenges and elevate projects to higher levels.<br><br>Passionate about the comprehensive development of technological solutions, I´m ready to contribute with my experience and skills to the success of ambitious projects.<br><br>I also have solid knowledge of cybersecurity such as OSINT, networking hacking or pentesting, I have enough knowledge that led me to create my own ethical hacking tools</p>
 
 ###
@@ -72,9 +68,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Reija21&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reija21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Reija21/Reija21/output/snake.svg" alt="Snake animation" />
 
 ###
