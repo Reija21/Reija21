@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Reija; in search of new opportunities to advance and perfect myself as a fullstack developer.<br>With a firm willingness to face innovative challenges and elevate projects to higher levels.<br><br>Passionate about the comprehensive development of technological solutions, I´m ready to contribute with my experience and skills to the success of ambitious projects.<br><br>I also have solid knowledge of cybersecurity such as OSINT, networking hacking or pentesting, I have enough knowledge that led me to create my own ethical hacking tools</p>
+<p align="left">Hi coders my name is Reija; in search of new opportunities to advance and perfect myself as a fullstack developer.<br>With a firm willingness to face innovative challenges and elevate projects to higher levels.<br><br>Passionate about the comprehensive development of technological solutions, I´m ready to contribute with my experience and skills to the success of ambitious projects.<br><br>I also have solid knowledge of cybersecurity such as OSINT, networking hacking or pentesting, I have enough knowledge that led me to create my own ethical hacking tools</p>
 
 ###
 
